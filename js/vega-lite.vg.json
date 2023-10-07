@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/filtered_share-deaths-air-pollution.csv"
+  },
+  "width": 600,
+  "height": 400,
+  "mark": "line",
+  "selection": {
+    "yearSelector": {
+      "type": "single",
+      "fields": ["Year"],
+      "bind": {
+        "input": "select",
+        "options": [1990, 2000, 2010, 2016],
+        "name": "Year"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": {
+        "selection": "yearSelector"
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "axis": {
+        "title": "Year"
+      }
+    },
+    "y": {
+      "field": "Total_Air_Pollution",
+      "type": "quantitative",
+      "axis": {
+        "title": "Death Rate from Air Pollution"
+      }
+    },
+    "color": {
+      "field": "Country",
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "Country",
+        "type": "nominal"
+      },
+      {
+        "field": "Total_Air_Pollution",
+        "type": "quantitative"
+      }
+    ]
+  }
+}
