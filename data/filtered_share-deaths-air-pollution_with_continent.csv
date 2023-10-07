@@ -1,0 +1,705 @@
+Entity,Code,Year,"Air pollution (total) (IHME, 2019)",Continent
+Afghanistan,AFG,1990,13.56,Asia
+Afghanistan,AFG,2000,12.63,Asia
+Afghanistan,AFG,2010,11.94,Asia
+Afghanistan,AFG,2016,10.29,Asia
+Albania,ALB,1990,11.67,Europe
+Albania,ALB,2000,9.24,Europe
+Albania,ALB,2010,8.01,Europe
+Albania,ALB,2016,7.57,Europe
+Algeria,DZA,1990,6.75,Africa
+Algeria,DZA,2000,6.97,Africa
+Algeria,DZA,2010,7.14,Africa
+Algeria,DZA,2016,7.81,Africa
+Andorra,AND,1990,5.61,Europe
+Andorra,AND,2000,4.91,Europe
+Andorra,AND,2010,4.74,Europe
+Andorra,AND,2016,4.16,Europe
+Angola,AGO,1990,8.89,Africa
+Angola,AGO,2000,8.24,Africa
+Angola,AGO,2010,6.64,Africa
+Angola,AGO,2016,5.86,Africa
+Antigua and Barbuda,ATG,1990,6.38,North America
+Antigua and Barbuda,ATG,2000,6.08,North America
+Antigua and Barbuda,ATG,2010,6.08,North America
+Antigua and Barbuda,ATG,2016,5.55,North America
+Argentina,ARG,1990,5.64,South America
+Argentina,ARG,2000,5.97,South America
+Argentina,ARG,2010,5.83,South America
+Argentina,ARG,2016,5.18,South America
+Armenia,ARM,1990,11.06,Asia
+Armenia,ARM,2000,11.25,Asia
+Armenia,ARM,2010,10.2,Asia
+Armenia,ARM,2016,9.22,Asia
+Australia,AUS,1990,4.44,Oceania
+Australia,AUS,2000,3.99,Oceania
+Australia,AUS,2010,3.46,Oceania
+Australia,AUS,2016,2.84,Oceania
+Austria,AUT,1990,5.35,Europe
+Austria,AUT,2000,5.33,Europe
+Austria,AUT,2010,4.88,Europe
+Austria,AUT,2016,4.32,Europe
+Azerbaijan,AZE,1990,11.02,Asia
+Azerbaijan,AZE,2000,9.92,Asia
+Azerbaijan,AZE,2010,9.04,Asia
+Azerbaijan,AZE,2016,8.43,Asia
+Bahamas,BHS,1990,5.17,North America
+Bahamas,BHS,2000,4.56,North America
+Bahamas,BHS,2010,4.72,North America
+Bahamas,BHS,2016,4.45,North America
+Bahrain,BHR,1990,11.19,Asia
+Bahrain,BHR,2000,10.83,Asia
+Bahrain,BHR,2010,11.14,Asia
+Bahrain,BHR,2016,12.09,Asia
+Bangladesh,BGD,1990,11.34,Asia
+Bangladesh,BGD,2000,12.45,Asia
+Bangladesh,BGD,2010,13.91,Asia
+Bangladesh,BGD,2016,13.8,Asia
+Barbados,BRB,1990,6.96,North America
+Barbados,BRB,2000,6.9,North America
+Barbados,BRB,2010,6.48,North America
+Barbados,BRB,2016,6.19,North America
+Belarus,BLR,1990,8.28,Europe
+Belarus,BLR,2000,8.05,Europe
+Belarus,BLR,2010,7.66,Europe
+Belarus,BLR,2016,6.85,Europe
+Belgium,BEL,1990,6.21,Europe
+Belgium,BEL,2000,5.77,Europe
+Belgium,BEL,2010,5.28,Europe
+Belgium,BEL,2016,4.55,Europe
+Belize,BLZ,1990,7.71,North America
+Belize,BLZ,2000,6.75,North America
+Belize,BLZ,2010,6.26,North America
+Belize,BLZ,2016,5.82,North America
+Benin,BEN,1990,9.65,Africa
+Benin,BEN,2000,8.4,Africa
+Benin,BEN,2010,7.62,Africa
+Benin,BEN,2016,7.69,Africa
+Bhutan,BTN,1990,11.06,Asia
+Bhutan,BTN,2000,10.37,Asia
+Bhutan,BTN,2010,10.16,Asia
+Bhutan,BTN,2016,9.59,Asia
+Bolivia,BOL,1990,9.98,South America
+Bolivia,BOL,2000,8.09,South America
+Bolivia,BOL,2010,7.38,South America
+Bolivia,BOL,2016,6.4,South America
+Bosnia and Herzegovina,BIH,1990,11.75,Europe
+Bosnia and Herzegovina,BIH,2000,10.69,Europe
+Bosnia and Herzegovina,BIH,2010,9.65,Europe
+Bosnia and Herzegovina,BIH,2016,9.15,Europe
+Botswana,BWA,1990,7.19,Africa
+Botswana,BWA,2000,3.16,Africa
+Botswana,BWA,2010,4.11,Africa
+Botswana,BWA,2016,5.59,Africa
+Brazil,BRA,1990,6.92,South America
+Brazil,BRA,2000,6.04,South America
+Brazil,BRA,2010,5.57,South America
+Brazil,BRA,2016,4.88,South America
+Brunei,BRN,1990,4.03,Asia
+Brunei,BRN,2000,3.68,Asia
+Brunei,BRN,2010,3.8,Asia
+Brunei,BRN,2016,2.78,Asia
+Bulgaria,BGR,1990,9.73,Europe
+Bulgaria,BGR,2000,8.71,Europe
+Bulgaria,BGR,2010,7.83,Europe
+Bulgaria,BGR,2016,7.18,Europe
+Burkina Faso,BFA,1990,8.59,Africa
+Burkina Faso,BFA,2000,8.05,Africa
+Burkina Faso,BFA,2010,7.72,Africa
+Burkina Faso,BFA,2016,8.38,Africa
+Burundi,BDI,1990,8.24,Africa
+Burundi,BDI,2000,5.74,Africa
+Burundi,BDI,2010,7.52,Africa
+Burundi,BDI,2016,7.92,Africa
+Cambodia,KHM,1990,14.83,Asia
+Cambodia,KHM,2000,12.58,Asia
+Cambodia,KHM,2010,10.85,Asia
+Cambodia,KHM,2016,10.55,Asia
+Cameroon,CMR,1990,8.14,Africa
+Cameroon,CMR,2000,7.23,Africa
+Cameroon,CMR,2010,6.89,Africa
+Cameroon,CMR,2016,6.94,Africa
+Canada,CAN,1990,4.11,North America
+Canada,CAN,2000,4.06,North America
+Canada,CAN,2010,3.66,North America
+Canada,CAN,2016,2.86,North America
+Central African Republic,CAF,1990,8.39,Africa
+Central African Republic,CAF,2000,6.8,Africa
+Central African Republic,CAF,2010,7.07,Africa
+Central African Republic,CAF,2016,7.43,Africa
+Chad,TCD,1990,9.48,Africa
+Chad,TCD,2000,9.23,Africa
+Chad,TCD,2010,9.45,Africa
+Chad,TCD,2016,9.83,Africa
+Chile,CHL,1990,6.86,South America
+Chile,CHL,2000,6.01,South America
+Chile,CHL,2010,5.49,South America
+Chile,CHL,2016,5.0,South America
+China,CHN,1990,16.18,Asia
+China,CHN,2000,14.73,Asia
+China,CHN,2010,13.37,Asia
+China,CHN,2016,11.93,Asia
+Colombia,COL,1990,5.61,South America
+Colombia,COL,2000,5.31,South America
+Colombia,COL,2010,5.71,South America
+Colombia,COL,2016,5.11,South America
+Comoros,COM,1990,10.78,Africa
+Comoros,COM,2000,9.35,Africa
+Comoros,COM,2010,9.31,Africa
+Comoros,COM,2016,8.89,Africa
+Costa Rica,CRI,1990,5.98,North America
+Costa Rica,CRI,2000,5.35,North America
+Costa Rica,CRI,2010,4.6,North America
+Costa Rica,CRI,2016,4.4,North America
+Croatia,HRV,1990,7.24,Europe
+Croatia,HRV,2000,7.16,Europe
+Croatia,HRV,2010,6.7,Europe
+Croatia,HRV,2016,6.03,Europe
+Cuba,CUB,1990,7.34,North America
+Cuba,CUB,2000,7.24,North America
+Cuba,CUB,2010,6.77,North America
+Cuba,CUB,2016,6.16,North America
+Cyprus,CYP,1990,7.59,Asia
+Cyprus,CYP,2000,7.45,Asia
+Cyprus,CYP,2010,6.96,Asia
+Cyprus,CYP,2016,6.4,Asia
+Denmark,DNK,1990,5.77,Europe
+Denmark,DNK,2000,5.18,Europe
+Denmark,DNK,2010,4.87,Europe
+Denmark,DNK,2016,4.37,Europe
+Djibouti,DJI,1990,9.14,Africa
+Djibouti,DJI,2000,7.89,Africa
+Djibouti,DJI,2010,6.01,Africa
+Djibouti,DJI,2016,6.45,Africa
+Dominica,DMA,1990,7.13,North America
+Dominica,DMA,2000,6.32,North America
+Dominica,DMA,2010,5.7,North America
+Dominica,DMA,2016,5.24,North America
+Dominican Republic,DOM,1990,5.28,North America
+Dominican Republic,DOM,2000,4.75,North America
+Dominican Republic,DOM,2010,5.14,North America
+Dominican Republic,DOM,2016,5.0,North America
+Ecuador,ECU,1990,5.49,South America
+Ecuador,ECU,2000,4.99,South America
+Ecuador,ECU,2010,4.89,South America
+Ecuador,ECU,2016,4.38,South America
+Egypt,EGY,1990,11.28,Africa
+Egypt,EGY,2000,11.17,Africa
+Egypt,EGY,2010,11.63,Africa
+Egypt,EGY,2016,12.16,Africa
+El Salvador,SLV,1990,6.86,North America
+El Salvador,SLV,2000,7.04,North America
+El Salvador,SLV,2010,6.76,North America
+El Salvador,SLV,2016,6.44,North America
+Equatorial Guinea,GNQ,1990,9.82,Africa
+Equatorial Guinea,GNQ,2000,6.73,Africa
+Equatorial Guinea,GNQ,2010,4.52,Africa
+Equatorial Guinea,GNQ,2016,4.54,Africa
+Eritrea,ERI,1990,5.15,Africa
+Eritrea,ERI,2000,7.44,Africa
+Eritrea,ERI,2010,7.55,Africa
+Eritrea,ERI,2016,7.59,Africa
+Estonia,EST,1990,5.82,Europe
+Estonia,EST,2000,5.01,Europe
+Estonia,EST,2010,3.88,Europe
+Estonia,EST,2016,2.99,Europe
+Ethiopia,ETH,1990,5.78,Africa
+Ethiopia,ETH,2000,6.66,Africa
+Ethiopia,ETH,2010,7.79,Africa
+Ethiopia,ETH,2016,7.46,Africa
+Fiji,FJI,1990,9.62,Oceania
+Fiji,FJI,2000,10.23,Oceania
+Fiji,FJI,2010,10.27,Oceania
+Fiji,FJI,2016,9.35,Oceania
+Finland,FIN,1990,3.92,Europe
+Finland,FIN,2000,3.29,Europe
+Finland,FIN,2010,2.76,Europe
+Finland,FIN,2016,2.03,Europe
+France,FRA,1990,4.41,Europe
+France,FRA,2000,4.06,Europe
+France,FRA,2010,3.82,Europe
+France,FRA,2016,3.29,Europe
+Gabon,GAB,1990,7.48,Africa
+Gabon,GAB,2000,5.53,Africa
+Gabon,GAB,2010,5.04,Africa
+Gabon,GAB,2016,5.88,Africa
+Gambia,GMB,1990,10.13,Africa
+Gambia,GMB,2000,8.55,Africa
+Gambia,GMB,2010,8.96,Africa
+Gambia,GMB,2016,9.31,Africa
+Georgia,GEO,1990,10.95,Asia
+Georgia,GEO,2000,10.91,Asia
+Georgia,GEO,2010,9.78,Asia
+Georgia,GEO,2016,8.24,Asia
+Germany,DEU,1990,6.19,Europe
+Germany,DEU,2000,5.49,Europe
+Germany,DEU,2010,5.01,Europe
+Germany,DEU,2016,4.4,Europe
+Ghana,GHA,1990,7.0,Africa
+Ghana,GHA,2000,6.82,Africa
+Ghana,GHA,2010,7.09,Africa
+Ghana,GHA,2016,7.5,Africa
+Greece,GRC,1990,6.71,Europe
+Greece,GRC,2000,6.42,Europe
+Greece,GRC,2010,6.42,Europe
+Greece,GRC,2016,5.79,Europe
+Grenada,GRD,1990,8.87,North America
+Grenada,GRD,2000,7.62,North America
+Grenada,GRD,2010,7.6,North America
+Grenada,GRD,2016,7.11,North America
+Guatemala,GTM,1990,10.25,North America
+Guatemala,GTM,2000,10.99,North America
+Guatemala,GTM,2010,8.91,North America
+Guatemala,GTM,2016,8.16,North America
+Guinea,GIN,1990,11.38,Africa
+Guinea,GIN,2000,10.1,Africa
+Guinea,GIN,2010,9.74,Africa
+Guinea,GIN,2016,9.72,Africa
+Guinea-Bissau,GNB,1990,8.14,Africa
+Guinea-Bissau,GNB,2000,7.96,Africa
+Guinea-Bissau,GNB,2010,7.58,Africa
+Guinea-Bissau,GNB,2016,7.59,Africa
+Guyana,GUY,1990,6.23,South America
+Guyana,GUY,2000,6.54,South America
+Guyana,GUY,2010,6.73,South America
+Guyana,GUY,2016,6.47,South America
+Haiti,HTI,1990,9.9,North America
+Haiti,HTI,2000,8.83,North America
+Haiti,HTI,2010,2.47,North America
+Haiti,HTI,2016,8.74,North America
+Honduras,HND,1990,7.19,North America
+Honduras,HND,2000,7.07,North America
+Honduras,HND,2010,6.76,North America
+Honduras,HND,2016,6.61,North America
+Hungary,HUN,1990,7.69,Europe
+Hungary,HUN,2000,6.77,Europe
+Hungary,HUN,2010,6.86,Europe
+Hungary,HUN,2016,6.38,Europe
+Iceland,ISL,1990,4.05,Europe
+Iceland,ISL,2000,3.65,Europe
+Iceland,ISL,2010,3.35,Europe
+Iceland,ISL,2016,2.66,Europe
+India,IND,1990,12.15,Asia
+India,IND,2000,11.91,Asia
+India,IND,2010,12.22,Asia
+India,IND,2016,12.55,Asia
+Indonesia,IDN,1990,8.49,Asia
+Indonesia,IDN,2000,7.56,Asia
+Indonesia,IDN,2010,7.85,Asia
+Indonesia,IDN,2016,7.58,Asia
+Iran,IRN,1990,5.54,Asia
+Iran,IRN,2000,6.9,Asia
+Iran,IRN,2010,6.93,Asia
+Iran,IRN,2016,7.56,Asia
+Iraq,IRQ,1990,8.33,Asia
+Iraq,IRQ,2000,8.52,Asia
+Iraq,IRQ,2010,7.92,Asia
+Iraq,IRQ,2016,6.38,Asia
+Ireland,IRL,1990,5.88,Europe
+Ireland,IRL,2000,5.25,Europe
+Ireland,IRL,2010,4.16,Europe
+Ireland,IRL,2016,3.62,Europe
+Israel,ISR,1990,7.23,Asia
+Israel,ISR,2000,6.81,Asia
+Israel,ISR,2010,6.01,Asia
+Israel,ISR,2016,5.64,Asia
+Italy,ITA,1990,5.99,Europe
+Italy,ITA,2000,5.46,Europe
+Italy,ITA,2010,5.14,Europe
+Italy,ITA,2016,4.71,Europe
+Jamaica,JAM,1990,6.63,North America
+Jamaica,JAM,2000,6.26,North America
+Jamaica,JAM,2010,6.02,North America
+Jamaica,JAM,2016,6.06,North America
+Japan,JPN,1990,4.92,Asia
+Japan,JPN,2000,4.37,Asia
+Japan,JPN,2010,4.13,Asia
+Japan,JPN,2016,3.59,Asia
+Jordan,JOR,1990,6.73,Asia
+Jordan,JOR,2000,7.05,Asia
+Jordan,JOR,2010,6.76,Asia
+Jordan,JOR,2016,6.98,Asia
+Kazakhstan,KAZ,1990,7.85,Asia
+Kazakhstan,KAZ,2000,7.49,Asia
+Kazakhstan,KAZ,2010,6.31,Asia
+Kazakhstan,KAZ,2016,5.87,Asia
+Kenya,KEN,1990,9.16,Africa
+Kenya,KEN,2000,5.84,Africa
+Kenya,KEN,2010,6.36,Africa
+Kenya,KEN,2016,6.41,Africa
+Kiribati,KIR,1990,9.39,Oceania
+Kiribati,KIR,2000,10.27,Oceania
+Kiribati,KIR,2010,10.43,Oceania
+Kiribati,KIR,2016,10.12,Oceania
+Kuwait,KWT,1990,6.72,Asia
+Kuwait,KWT,2000,9.69,Asia
+Kuwait,KWT,2010,10.28,Asia
+Kuwait,KWT,2016,10.7,Asia
+Kyrgyzstan,KGZ,1990,11.75,Asia
+Kyrgyzstan,KGZ,2000,10.91,Asia
+Kyrgyzstan,KGZ,2010,9.27,Asia
+Kyrgyzstan,KGZ,2016,8.33,Asia
+Laos,LAO,1990,14.23,Asia
+Laos,LAO,2000,13.1,Asia
+Laos,LAO,2010,12.08,Asia
+Laos,LAO,2016,11.09,Asia
+Latvia,LVA,1990,7.04,Europe
+Latvia,LVA,2000,6.33,Europe
+Latvia,LVA,2010,6.04,Europe
+Latvia,LVA,2016,5.21,Europe
+Lebanon,LBN,1990,6.96,Asia
+Lebanon,LBN,2000,7.89,Asia
+Lebanon,LBN,2010,8.53,Asia
+Lebanon,LBN,2016,8.26,Asia
+Lesotho,LSO,1990,9.09,Africa
+Lesotho,LSO,2000,5.72,Africa
+Lesotho,LSO,2010,5.92,Africa
+Lesotho,LSO,2016,6.45,Africa
+Liberia,LBR,1990,8.3,Africa
+Liberia,LBR,2000,7.94,Africa
+Liberia,LBR,2010,7.31,Africa
+Liberia,LBR,2016,7.47,Africa
+Libya,LBY,1990,6.82,Africa
+Libya,LBY,2000,7.76,Africa
+Libya,LBY,2010,8.46,Africa
+Libya,LBY,2016,8.36,Africa
+Lithuania,LTU,1990,6.61,Europe
+Lithuania,LTU,2000,5.66,Europe
+Lithuania,LTU,2010,5.59,Europe
+Lithuania,LTU,2016,5.02,Europe
+Luxembourg,LUX,1990,5.36,Europe
+Luxembourg,LUX,2000,4.82,Europe
+Luxembourg,LUX,2010,4.55,Europe
+Luxembourg,LUX,2016,3.82,Europe
+Madagascar,MDG,1990,10.34,Africa
+Madagascar,MDG,2000,10.83,Africa
+Madagascar,MDG,2010,10.32,Africa
+Madagascar,MDG,2016,10.14,Africa
+Malawi,MWI,1990,6.29,Africa
+Malawi,MWI,2000,5.46,Africa
+Malawi,MWI,2010,5.37,Africa
+Malawi,MWI,2016,6.66,Africa
+Malaysia,MYS,1990,7.22,Asia
+Malaysia,MYS,2000,7.23,Asia
+Malaysia,MYS,2010,7.41,Asia
+Malaysia,MYS,2016,6.78,Asia
+Maldives,MDV,1990,9.43,Asia
+Maldives,MDV,2000,8.49,Asia
+Maldives,MDV,2010,6.35,Asia
+Maldives,MDV,2016,4.93,Asia
+Mali,MLI,1990,6.38,Africa
+Mali,MLI,2000,5.9,Africa
+Mali,MLI,2010,5.86,Africa
+Mali,MLI,2016,6.26,Africa
+Malta,MLT,1990,7.02,Europe
+Malta,MLT,2000,6.5,Europe
+Malta,MLT,2010,5.98,Europe
+Malta,MLT,2016,5.41,Europe
+Marshall Islands,MHL,1990,7.65,Oceania
+Marshall Islands,MHL,2000,7.37,Oceania
+Marshall Islands,MHL,2010,7.5,Oceania
+Marshall Islands,MHL,2016,6.8,Oceania
+Mauritania,MRT,1990,7.53,Africa
+Mauritania,MRT,2000,8.29,Africa
+Mauritania,MRT,2010,8.29,Africa
+Mauritania,MRT,2016,8.3,Africa
+Mauritius,MUS,1990,7.67,Africa
+Mauritius,MUS,2000,7.29,Africa
+Mauritius,MUS,2010,7.56,Africa
+Mauritius,MUS,2016,7.23,Africa
+Mexico,MEX,1990,6.67,North America
+Mexico,MEX,2000,6.83,North America
+Mexico,MEX,2010,6.93,North America
+Mexico,MEX,2016,6.89,North America
+Micronesia,,1990,9.6,Oceania
+Micronesia,,2000,8.39,Oceania
+Micronesia,,2010,8.28,Oceania
+Micronesia,,2016,7.64,Oceania
+Moldova,MDA,1990,9.49,Europe
+Moldova,MDA,2000,9.37,Europe
+Moldova,MDA,2010,7.73,Europe
+Moldova,MDA,2016,6.69,Europe
+Mongolia,MNG,1990,13.49,Asia
+Mongolia,MNG,2000,10.78,Asia
+Mongolia,MNG,2010,8.69,Asia
+Mongolia,MNG,2016,7.71,Asia
+Montenegro,MNE,1990,8.43,Europe
+Montenegro,MNE,2000,8.37,Europe
+Montenegro,MNE,2010,7.9,Europe
+Montenegro,MNE,2016,7.26,Europe
+Morocco,MAR,1990,7.16,Africa
+Morocco,MAR,2000,7.86,Africa
+Morocco,MAR,2010,8.35,Africa
+Morocco,MAR,2016,8.91,Africa
+Mozambique,MOZ,1990,8.21,Africa
+Mozambique,MOZ,2000,6.49,Africa
+Mozambique,MOZ,2010,5.33,Africa
+Mozambique,MOZ,2016,5.57,Africa
+Namibia,NAM,1990,8.94,Africa
+Namibia,NAM,2000,6.28,Africa
+Namibia,NAM,2010,5.03,Africa
+Namibia,NAM,2016,6.06,Africa
+Nepal,NPL,1990,12.71,Asia
+Nepal,NPL,2000,12.83,Asia
+Nepal,NPL,2010,13.78,Asia
+Nepal,NPL,2016,14.02,Asia
+Netherlands,NLD,1990,6.29,Europe
+Netherlands,NLD,2000,5.95,Europe
+Netherlands,NLD,2010,5.26,Europe
+Netherlands,NLD,2016,4.39,Europe
+New Zealand,NZL,1990,3.57,Oceania
+New Zealand,NZL,2000,3.2,Oceania
+New Zealand,NZL,2010,2.75,Oceania
+New Zealand,NZL,2016,2.14,Oceania
+Nicaragua,NIC,1990,8.09,North America
+Nicaragua,NIC,2000,7.42,North America
+Nicaragua,NIC,2010,7.45,North America
+Nicaragua,NIC,2016,6.59,North America
+Niger,NER,1990,10.14,Africa
+Niger,NER,2000,8.99,Africa
+Niger,NER,2010,8.01,Africa
+Niger,NER,2016,8.94,Africa
+Nigeria,NGA,1990,9.68,Africa
+Nigeria,NGA,2000,8.12,Africa
+Nigeria,NGA,2010,6.75,Africa
+Nigeria,NGA,2016,7.27,Africa
+North Korea,PRK,1990,17.19,Asia
+North Korea,PRK,2000,11.86,Asia
+North Korea,PRK,2010,17.15,Asia
+North Korea,PRK,2016,16.51,Asia
+Norway,NOR,1990,4.31,Europe
+Norway,NOR,2000,3.9,Europe
+Norway,NOR,2010,3.46,Europe
+Norway,NOR,2016,2.78,Europe
+Oman,OMN,1990,7.4,Asia
+Oman,OMN,2000,8.22,Asia
+Oman,OMN,2010,7.79,Asia
+Oman,OMN,2016,8.01,Asia
+Pakistan,PAK,1990,9.39,Asia
+Pakistan,PAK,2000,9.24,Asia
+Pakistan,PAK,2010,9.19,Asia
+Pakistan,PAK,2016,9.04,Asia
+Panama,PAN,1990,5.43,North America
+Panama,PAN,2000,5.01,North America
+Panama,PAN,2010,4.94,North America
+Panama,PAN,2016,4.52,North America
+Papua New Guinea,PNG,1990,13.07,Oceania
+Papua New Guinea,PNG,2000,12.38,Oceania
+Papua New Guinea,PNG,2010,11.96,Oceania
+Papua New Guinea,PNG,2016,11.98,Oceania
+Paraguay,PRY,1990,8.42,South America
+Paraguay,PRY,2000,7.6,South America
+Paraguay,PRY,2010,7.41,South America
+Paraguay,PRY,2016,6.48,South America
+Peru,PER,1990,9.39,South America
+Peru,PER,2000,7.86,South America
+Peru,PER,2010,7.93,South America
+Peru,PER,2016,6.87,South America
+Philippines,PHL,1990,10.54,Asia
+Philippines,PHL,2000,8.89,Asia
+Philippines,PHL,2010,10.43,Asia
+Philippines,PHL,2016,9.76,Asia
+Poland,POL,1990,8.88,Europe
+Poland,POL,2000,7.5,Europe
+Poland,POL,2010,7.16,Europe
+Poland,POL,2016,6.29,Europe
+Portugal,PRT,1990,5.26,Europe
+Portugal,PRT,2000,5.04,Europe
+Portugal,PRT,2010,4.56,Europe
+Portugal,PRT,2016,3.75,Europe
+Qatar,QAT,1990,9.09,Asia
+Qatar,QAT,2000,10.09,Asia
+Qatar,QAT,2010,8.57,Asia
+Qatar,QAT,2016,8.99,Asia
+Romania,ROU,1990,9.02,Europe
+Romania,ROU,2000,7.76,Europe
+Romania,ROU,2010,6.54,Europe
+Romania,ROU,2016,5.83,Europe
+Russia,RUS,1990,6.63,Asia
+Russia,RUS,2000,6.39,Asia
+Russia,RUS,2010,5.96,Asia
+Russia,RUS,2016,5.42,Asia
+Rwanda,RWA,1990,8.34,Africa
+Rwanda,RWA,2000,7.75,Africa
+Rwanda,RWA,2010,7.84,Africa
+Rwanda,RWA,2016,8.07,Africa
+Saint Lucia,LCA,1990,7.8,North America
+Saint Lucia,LCA,2000,7.09,North America
+Saint Lucia,LCA,2010,6.52,North America
+Saint Lucia,LCA,2016,6.0,North America
+Saint Vincent and the Grenadines,VCT,1990,8.94,North America
+Saint Vincent and the Grenadines,VCT,2000,7.74,North America
+Saint Vincent and the Grenadines,VCT,2010,6.98,North America
+Saint Vincent and the Grenadines,VCT,2016,6.59,North America
+Samoa,WSM,1990,9.2,Oceania
+Samoa,WSM,2000,9.4,Oceania
+Samoa,WSM,2010,9.51,Oceania
+Samoa,WSM,2016,8.86,Oceania
+Sao Tome and Principe,STP,1990,11.41,Africa
+Sao Tome and Principe,STP,2000,11.41,Africa
+Sao Tome and Principe,STP,2010,10.4,Africa
+Sao Tome and Principe,STP,2016,10.07,Africa
+Saudi Arabia,SAU,1990,5.79,Asia
+Saudi Arabia,SAU,2000,7.56,Asia
+Saudi Arabia,SAU,2010,9.14,Asia
+Saudi Arabia,SAU,2016,9.13,Asia
+Senegal,SEN,1990,8.04,Africa
+Senegal,SEN,2000,7.49,Africa
+Senegal,SEN,2010,8.29,Africa
+Senegal,SEN,2016,8.97,Africa
+Serbia,SRB,1990,9.93,Europe
+Serbia,SRB,2000,9.97,Europe
+Serbia,SRB,2010,9.01,Europe
+Serbia,SRB,2016,8.06,Europe
+Seychelles,SYC,1990,6.92,Africa
+Seychelles,SYC,2000,5.88,Africa
+Seychelles,SYC,2010,5.71,Africa
+Seychelles,SYC,2016,5.49,Africa
+Sierra Leone,SLE,1990,10.26,Africa
+Sierra Leone,SLE,2000,9.24,Africa
+Sierra Leone,SLE,2010,8.53,Africa
+Sierra Leone,SLE,2016,8.59,Africa
+Singapore,SGP,1990,7.69,Asia
+Singapore,SGP,2000,7.24,Asia
+Singapore,SGP,2010,7.09,Asia
+Singapore,SGP,2016,6.56,Asia
+Slovakia,SVK,1990,8.35,Europe
+Slovakia,SVK,2000,7.25,Europe
+Slovakia,SVK,2010,6.75,Europe
+Slovakia,SVK,2016,5.91,Europe
+Slovenia,SVN,1990,6.21,Europe
+Slovenia,SVN,2000,6.06,Europe
+Slovenia,SVN,2010,4.97,Europe
+Slovenia,SVN,2016,4.57,Europe
+Solomon Islands,SLB,1990,14.44,Oceania
+Solomon Islands,SLB,2000,14.08,Oceania
+Solomon Islands,SLB,2010,13.82,Oceania
+Solomon Islands,SLB,2016,13.52,Oceania
+Somalia,SOM,1990,8.49,Africa
+Somalia,SOM,2000,9.52,Africa
+Somalia,SOM,2010,8.23,Africa
+Somalia,SOM,2016,8.7,Africa
+South Africa,ZAF,1990,6.65,Africa
+South Africa,ZAF,2000,5.41,Africa
+South Africa,ZAF,2010,4.12,Africa
+South Africa,ZAF,2016,4.82,Africa
+South Korea,KOR,1990,5.9,Asia
+South Korea,KOR,2000,5.99,Asia
+South Korea,KOR,2010,6.09,Asia
+South Korea,KOR,2016,5.78,Asia
+South Sudan,SSD,1990,9.56,Africa
+South Sudan,SSD,2000,9.17,Africa
+South Sudan,SSD,2010,9.6,Africa
+South Sudan,SSD,2016,9.64,Africa
+Spain,ESP,1990,5.43,Europe
+Spain,ESP,2000,5.18,Europe
+Spain,ESP,2010,4.58,Europe
+Spain,ESP,2016,4.13,Europe
+Sri Lanka,LKA,1990,8.58,Asia
+Sri Lanka,LKA,2000,8.35,Asia
+Sri Lanka,LKA,2010,8.56,Asia
+Sri Lanka,LKA,2016,7.32,Asia
+Sudan,SDN,1990,9.3,Africa
+Sudan,SDN,2000,9.65,Africa
+Sudan,SDN,2010,8.66,Africa
+Sudan,SDN,2016,8.54,Africa
+Suriname,SUR,1990,6.62,South America
+Suriname,SUR,2000,6.46,South America
+Suriname,SUR,2010,6.42,South America
+Suriname,SUR,2016,6.29,South America
+Sweden,SWE,1990,3.94,Europe
+Sweden,SWE,2000,3.51,Europe
+Sweden,SWE,2010,3.05,Europe
+Sweden,SWE,2016,2.41,Europe
+Switzerland,CHE,1990,5.53,Europe
+Switzerland,CHE,2000,4.84,Europe
+Switzerland,CHE,2010,4.24,Europe
+Switzerland,CHE,2016,3.59,Europe
+Syria,SYR,1990,8.1,Asia
+Syria,SYR,2000,8.99,Asia
+Syria,SYR,2010,9.87,Asia
+Syria,SYR,2016,5.84,Asia
+Tajikistan,TJK,1990,14.77,Asia
+Tajikistan,TJK,2000,13.23,Asia
+Tajikistan,TJK,2010,11.41,Asia
+Tajikistan,TJK,2016,10.99,Asia
+Tanzania,TZA,1990,9.11,Africa
+Tanzania,TZA,2000,6.74,Africa
+Tanzania,TZA,2010,6.87,Africa
+Tanzania,TZA,2016,7.85,Africa
+Thailand,THA,1990,8.46,Asia
+Thailand,THA,2000,6.9,Asia
+Thailand,THA,2010,7.19,Asia
+Thailand,THA,2016,6.55,Asia
+Togo,TGO,1990,8.39,Africa
+Togo,TGO,2000,7.06,Africa
+Togo,TGO,2010,6.7,Africa
+Togo,TGO,2016,7.32,Africa
+Tonga,TON,1990,10.06,Oceania
+Tonga,TON,2000,9.31,Oceania
+Tonga,TON,2010,8.47,Oceania
+Tonga,TON,2016,7.73,Oceania
+Trinidad and Tobago,TTO,1990,8.35,North America
+Trinidad and Tobago,TTO,2000,8.15,North America
+Trinidad and Tobago,TTO,2010,7.76,North America
+Trinidad and Tobago,TTO,2016,7.88,North America
+Tunisia,TUN,1990,7.51,Africa
+Tunisia,TUN,2000,8.3,Africa
+Tunisia,TUN,2010,8.32,Africa
+Tunisia,TUN,2016,8.7,Africa
+Turkey,TUR,1990,9.81,Asia
+Turkey,TUR,2000,9.49,Asia
+Turkey,TUR,2010,9.81,Asia
+Turkey,TUR,2016,9.92,Asia
+Turkmenistan,TKM,1990,8.31,Asia
+Turkmenistan,TKM,2000,8.18,Asia
+Turkmenistan,TKM,2010,7.33,Asia
+Turkmenistan,TKM,2016,7.22,Asia
+Uganda,UGA,1990,4.9,Africa
+Uganda,UGA,2000,4.72,Africa
+Uganda,UGA,2010,4.96,Africa
+Uganda,UGA,2016,5.82,Africa
+Ukraine,UKR,1990,9.07,Europe
+Ukraine,UKR,2000,8.61,Europe
+Ukraine,UKR,2010,7.96,Europe
+Ukraine,UKR,2016,7.31,Europe
+United Arab Emirates,ARE,1990,6.04,Asia
+United Arab Emirates,ARE,2000,7.29,Asia
+United Arab Emirates,ARE,2010,5.92,Asia
+United Arab Emirates,ARE,2016,7.61,Asia
+United Kingdom,GBR,1990,6.36,Europe
+United Kingdom,GBR,2000,5.54,Europe
+United Kingdom,GBR,2010,4.64,Europe
+United Kingdom,GBR,2016,4.07,Europe
+Uruguay,URY,1990,4.5,South America
+Uruguay,URY,2000,4.42,South America
+Uruguay,URY,2010,4.06,South America
+Uruguay,URY,2016,3.53,South America
+Uzbekistan,UZB,1990,11.77,Asia
+Uzbekistan,UZB,2000,10.75,Asia
+Uzbekistan,UZB,2010,10.32,Asia
+Uzbekistan,UZB,2016,9.58,Asia
+Vanuatu,VUT,1990,11.39,Oceania
+Vanuatu,VUT,2000,10.96,Oceania
+Vanuatu,VUT,2010,10.54,Oceania
+Vanuatu,VUT,2016,10.03,Oceania
+Venezuela,VEN,1990,5.31,South America
+Venezuela,VEN,2000,5.22,South America
+Venezuela,VEN,2010,5.47,South America
+Venezuela,VEN,2016,5.25,South America
+Vietnam,VNM,1990,10.12,Asia
+Vietnam,VNM,2000,9.61,Asia
+Vietnam,VNM,2010,9.11,Asia
+Vietnam,VNM,2016,8.36,Asia
+Yemen,YEM,1990,9.14,Asia
+Yemen,YEM,2000,8.62,Asia
+Yemen,YEM,2010,8.02,Asia
+Yemen,YEM,2016,7.54,Asia
+Zambia,ZMB,1990,8.08,Africa
+Zambia,ZMB,2000,5.36,Africa
+Zambia,ZMB,2010,5.27,Africa
+Zambia,ZMB,2016,6.02,Africa
+Zimbabwe,ZWE,1990,6.71,Africa
+Zimbabwe,ZWE,2000,4.13,Africa
+Zimbabwe,ZWE,2010,5.7,Africa
+Zimbabwe,ZWE,2016,7.56,Africa
