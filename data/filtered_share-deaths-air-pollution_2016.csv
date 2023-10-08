@@ -1,0 +1,177 @@
+Entity,Code,Year,"Air pollution (total) (IHME, 2019)",Continent
+Afghanistan,AFG,2016,10.29,Asia
+Albania,ALB,2016,7.57,Europe
+Algeria,DZA,2016,7.81,Africa
+Andorra,AND,2016,4.16,Europe
+Angola,AGO,2016,5.86,Africa
+Antigua and Barbuda,ATG,2016,5.55,North America
+Argentina,ARG,2016,5.18,South America
+Armenia,ARM,2016,9.22,Asia
+Australia,AUS,2016,2.84,Oceania
+Austria,AUT,2016,4.32,Europe
+Azerbaijan,AZE,2016,8.43,Asia
+Bahamas,BHS,2016,4.45,North America
+Bahrain,BHR,2016,12.09,Asia
+Bangladesh,BGD,2016,13.8,Asia
+Barbados,BRB,2016,6.19,North America
+Belarus,BLR,2016,6.85,Europe
+Belgium,BEL,2016,4.55,Europe
+Belize,BLZ,2016,5.82,North America
+Benin,BEN,2016,7.69,Africa
+Bhutan,BTN,2016,9.59,Asia
+Bolivia,BOL,2016,6.4,South America
+Bosnia and Herzegovina,BIH,2016,9.15,Europe
+Botswana,BWA,2016,5.59,Africa
+Brazil,BRA,2016,4.88,South America
+Brunei,BRN,2016,2.78,Asia
+Bulgaria,BGR,2016,7.18,Europe
+Burkina Faso,BFA,2016,8.38,Africa
+Burundi,BDI,2016,7.92,Africa
+Cambodia,KHM,2016,10.55,Asia
+Cameroon,CMR,2016,6.94,Africa
+Canada,CAN,2016,2.86,North America
+Central African Republic,CAF,2016,7.43,Africa
+Chad,TCD,2016,9.83,Africa
+Chile,CHL,2016,5.0,South America
+China,CHN,2016,11.93,Asia
+Colombia,COL,2016,5.11,South America
+Comoros,COM,2016,8.89,Africa
+Costa Rica,CRI,2016,4.4,North America
+Croatia,HRV,2016,6.03,Europe
+Cuba,CUB,2016,6.16,North America
+Cyprus,CYP,2016,6.4,Asia
+Denmark,DNK,2016,4.37,Europe
+Djibouti,DJI,2016,6.45,Africa
+Dominica,DMA,2016,5.24,North America
+Dominican Republic,DOM,2016,5.0,North America
+Ecuador,ECU,2016,4.38,South America
+Egypt,EGY,2016,12.16,Africa
+El Salvador,SLV,2016,6.44,North America
+Equatorial Guinea,GNQ,2016,4.54,Africa
+Eritrea,ERI,2016,7.59,Africa
+Estonia,EST,2016,2.99,Europe
+Ethiopia,ETH,2016,7.46,Africa
+Fiji,FJI,2016,9.35,Oceania
+Finland,FIN,2016,2.03,Europe
+France,FRA,2016,3.29,Europe
+Gabon,GAB,2016,5.88,Africa
+Gambia,GMB,2016,9.31,Africa
+Georgia,GEO,2016,8.24,Asia
+Germany,DEU,2016,4.4,Europe
+Ghana,GHA,2016,7.5,Africa
+Greece,GRC,2016,5.79,Europe
+Grenada,GRD,2016,7.11,North America
+Guatemala,GTM,2016,8.16,North America
+Guinea,GIN,2016,9.72,Africa
+Guinea-Bissau,GNB,2016,7.59,Africa
+Guyana,GUY,2016,6.47,South America
+Haiti,HTI,2016,8.74,North America
+Honduras,HND,2016,6.61,North America
+Hungary,HUN,2016,6.38,Europe
+Iceland,ISL,2016,2.66,Europe
+India,IND,2016,12.55,Asia
+Indonesia,IDN,2016,7.58,Asia
+Iran,IRN,2016,7.56,Asia
+Iraq,IRQ,2016,6.38,Asia
+Ireland,IRL,2016,3.62,Europe
+Israel,ISR,2016,5.64,Asia
+Italy,ITA,2016,4.71,Europe
+Jamaica,JAM,2016,6.06,North America
+Japan,JPN,2016,3.59,Asia
+Jordan,JOR,2016,6.98,Asia
+Kazakhstan,KAZ,2016,5.87,Asia
+Kenya,KEN,2016,6.41,Africa
+Kiribati,KIR,2016,10.12,Oceania
+Kuwait,KWT,2016,10.7,Asia
+Kyrgyzstan,KGZ,2016,8.33,Asia
+Laos,LAO,2016,11.09,Asia
+Latvia,LVA,2016,5.21,Europe
+Lebanon,LBN,2016,8.26,Asia
+Lesotho,LSO,2016,6.45,Africa
+Liberia,LBR,2016,7.47,Africa
+Libya,LBY,2016,8.36,Africa
+Lithuania,LTU,2016,5.02,Europe
+Luxembourg,LUX,2016,3.82,Europe
+Madagascar,MDG,2016,10.14,Africa
+Malawi,MWI,2016,6.66,Africa
+Malaysia,MYS,2016,6.78,Asia
+Maldives,MDV,2016,4.93,Asia
+Mali,MLI,2016,6.26,Africa
+Malta,MLT,2016,5.41,Europe
+Marshall Islands,MHL,2016,6.8,Oceania
+Mauritania,MRT,2016,8.3,Africa
+Mauritius,MUS,2016,7.23,Africa
+Mexico,MEX,2016,6.89,North America
+Micronesia,,2016,7.64,Oceania
+Moldova,MDA,2016,6.69,Europe
+Mongolia,MNG,2016,7.71,Asia
+Montenegro,MNE,2016,7.26,Europe
+Morocco,MAR,2016,8.91,Africa
+Mozambique,MOZ,2016,5.57,Africa
+Namibia,NAM,2016,6.06,Africa
+Nepal,NPL,2016,14.02,Asia
+Netherlands,NLD,2016,4.39,Europe
+New Zealand,NZL,2016,2.14,Oceania
+Nicaragua,NIC,2016,6.59,North America
+Niger,NER,2016,8.94,Africa
+Nigeria,NGA,2016,7.27,Africa
+North Korea,PRK,2016,16.51,Asia
+Norway,NOR,2016,2.78,Europe
+Oman,OMN,2016,8.01,Asia
+Pakistan,PAK,2016,9.04,Asia
+Panama,PAN,2016,4.52,North America
+Papua New Guinea,PNG,2016,11.98,Oceania
+Paraguay,PRY,2016,6.48,South America
+Peru,PER,2016,6.87,South America
+Philippines,PHL,2016,9.76,Asia
+Poland,POL,2016,6.29,Europe
+Portugal,PRT,2016,3.75,Europe
+Qatar,QAT,2016,8.99,Asia
+Romania,ROU,2016,5.83,Europe
+Russia,RUS,2016,5.42,Asia
+Rwanda,RWA,2016,8.07,Africa
+Saint Lucia,LCA,2016,6.0,North America
+Saint Vincent and the Grenadines,VCT,2016,6.59,North America
+Samoa,WSM,2016,8.86,Oceania
+Sao Tome and Principe,STP,2016,10.07,Africa
+Saudi Arabia,SAU,2016,9.13,Asia
+Senegal,SEN,2016,8.97,Africa
+Serbia,SRB,2016,8.06,Europe
+Seychelles,SYC,2016,5.49,Africa
+Sierra Leone,SLE,2016,8.59,Africa
+Singapore,SGP,2016,6.56,Asia
+Slovakia,SVK,2016,5.91,Europe
+Slovenia,SVN,2016,4.57,Europe
+Solomon Islands,SLB,2016,13.52,Oceania
+Somalia,SOM,2016,8.7,Africa
+South Africa,ZAF,2016,4.82,Africa
+South Korea,KOR,2016,5.78,Asia
+South Sudan,SSD,2016,9.64,Africa
+Spain,ESP,2016,4.13,Europe
+Sri Lanka,LKA,2016,7.32,Asia
+Sudan,SDN,2016,8.54,Africa
+Suriname,SUR,2016,6.29,South America
+Sweden,SWE,2016,2.41,Europe
+Switzerland,CHE,2016,3.59,Europe
+Syria,SYR,2016,5.84,Asia
+Tajikistan,TJK,2016,10.99,Asia
+Tanzania,TZA,2016,7.85,Africa
+Thailand,THA,2016,6.55,Asia
+Togo,TGO,2016,7.32,Africa
+Tonga,TON,2016,7.73,Oceania
+Trinidad and Tobago,TTO,2016,7.88,North America
+Tunisia,TUN,2016,8.7,Africa
+Turkey,TUR,2016,9.92,Asia
+Turkmenistan,TKM,2016,7.22,Asia
+Uganda,UGA,2016,5.82,Africa
+Ukraine,UKR,2016,7.31,Europe
+United Arab Emirates,ARE,2016,7.61,Asia
+United Kingdom,GBR,2016,4.07,Europe
+Uruguay,URY,2016,3.53,South America
+Uzbekistan,UZB,2016,9.58,Asia
+Vanuatu,VUT,2016,10.03,Oceania
+Venezuela,VEN,2016,5.25,South America
+Vietnam,VNM,2016,8.36,Asia
+Yemen,YEM,2016,7.54,Asia
+Zambia,ZMB,2016,6.02,Africa
+Zimbabwe,ZWE,2016,7.56,Africa

@@ -1,0 +1,177 @@
+Entity,Code,Year,"Air pollution (total) (IHME, 2019)",Continent
+Afghanistan,AFG,2000,12.63,Asia
+Albania,ALB,2000,9.24,Europe
+Algeria,DZA,2000,6.97,Africa
+Andorra,AND,2000,4.91,Europe
+Angola,AGO,2000,8.24,Africa
+Antigua and Barbuda,ATG,2000,6.08,North America
+Argentina,ARG,2000,5.97,South America
+Armenia,ARM,2000,11.25,Asia
+Australia,AUS,2000,3.99,Oceania
+Austria,AUT,2000,5.33,Europe
+Azerbaijan,AZE,2000,9.92,Asia
+Bahamas,BHS,2000,4.56,North America
+Bahrain,BHR,2000,10.83,Asia
+Bangladesh,BGD,2000,12.45,Asia
+Barbados,BRB,2000,6.9,North America
+Belarus,BLR,2000,8.05,Europe
+Belgium,BEL,2000,5.77,Europe
+Belize,BLZ,2000,6.75,North America
+Benin,BEN,2000,8.4,Africa
+Bhutan,BTN,2000,10.37,Asia
+Bolivia,BOL,2000,8.09,South America
+Bosnia and Herzegovina,BIH,2000,10.69,Europe
+Botswana,BWA,2000,3.16,Africa
+Brazil,BRA,2000,6.04,South America
+Brunei,BRN,2000,3.68,Asia
+Bulgaria,BGR,2000,8.71,Europe
+Burkina Faso,BFA,2000,8.05,Africa
+Burundi,BDI,2000,5.74,Africa
+Cambodia,KHM,2000,12.58,Asia
+Cameroon,CMR,2000,7.23,Africa
+Canada,CAN,2000,4.06,North America
+Central African Republic,CAF,2000,6.8,Africa
+Chad,TCD,2000,9.23,Africa
+Chile,CHL,2000,6.01,South America
+China,CHN,2000,14.73,Asia
+Colombia,COL,2000,5.31,South America
+Comoros,COM,2000,9.35,Africa
+Costa Rica,CRI,2000,5.35,North America
+Croatia,HRV,2000,7.16,Europe
+Cuba,CUB,2000,7.24,North America
+Cyprus,CYP,2000,7.45,Asia
+Denmark,DNK,2000,5.18,Europe
+Djibouti,DJI,2000,7.89,Africa
+Dominica,DMA,2000,6.32,North America
+Dominican Republic,DOM,2000,4.75,North America
+Ecuador,ECU,2000,4.99,South America
+Egypt,EGY,2000,11.17,Africa
+El Salvador,SLV,2000,7.04,North America
+Equatorial Guinea,GNQ,2000,6.73,Africa
+Eritrea,ERI,2000,7.44,Africa
+Estonia,EST,2000,5.01,Europe
+Ethiopia,ETH,2000,6.66,Africa
+Fiji,FJI,2000,10.23,Oceania
+Finland,FIN,2000,3.29,Europe
+France,FRA,2000,4.06,Europe
+Gabon,GAB,2000,5.53,Africa
+Gambia,GMB,2000,8.55,Africa
+Georgia,GEO,2000,10.91,Asia
+Germany,DEU,2000,5.49,Europe
+Ghana,GHA,2000,6.82,Africa
+Greece,GRC,2000,6.42,Europe
+Grenada,GRD,2000,7.62,North America
+Guatemala,GTM,2000,10.99,North America
+Guinea,GIN,2000,10.1,Africa
+Guinea-Bissau,GNB,2000,7.96,Africa
+Guyana,GUY,2000,6.54,South America
+Haiti,HTI,2000,8.83,North America
+Honduras,HND,2000,7.07,North America
+Hungary,HUN,2000,6.77,Europe
+Iceland,ISL,2000,3.65,Europe
+India,IND,2000,11.91,Asia
+Indonesia,IDN,2000,7.56,Asia
+Iran,IRN,2000,6.9,Asia
+Iraq,IRQ,2000,8.52,Asia
+Ireland,IRL,2000,5.25,Europe
+Israel,ISR,2000,6.81,Asia
+Italy,ITA,2000,5.46,Europe
+Jamaica,JAM,2000,6.26,North America
+Japan,JPN,2000,4.37,Asia
+Jordan,JOR,2000,7.05,Asia
+Kazakhstan,KAZ,2000,7.49,Asia
+Kenya,KEN,2000,5.84,Africa
+Kiribati,KIR,2000,10.27,Oceania
+Kuwait,KWT,2000,9.69,Asia
+Kyrgyzstan,KGZ,2000,10.91,Asia
+Laos,LAO,2000,13.1,Asia
+Latvia,LVA,2000,6.33,Europe
+Lebanon,LBN,2000,7.89,Asia
+Lesotho,LSO,2000,5.72,Africa
+Liberia,LBR,2000,7.94,Africa
+Libya,LBY,2000,7.76,Africa
+Lithuania,LTU,2000,5.66,Europe
+Luxembourg,LUX,2000,4.82,Europe
+Madagascar,MDG,2000,10.83,Africa
+Malawi,MWI,2000,5.46,Africa
+Malaysia,MYS,2000,7.23,Asia
+Maldives,MDV,2000,8.49,Asia
+Mali,MLI,2000,5.9,Africa
+Malta,MLT,2000,6.5,Europe
+Marshall Islands,MHL,2000,7.37,Oceania
+Mauritania,MRT,2000,8.29,Africa
+Mauritius,MUS,2000,7.29,Africa
+Mexico,MEX,2000,6.83,North America
+Micronesia,,2000,8.39,Oceania
+Moldova,MDA,2000,9.37,Europe
+Mongolia,MNG,2000,10.78,Asia
+Montenegro,MNE,2000,8.37,Europe
+Morocco,MAR,2000,7.86,Africa
+Mozambique,MOZ,2000,6.49,Africa
+Namibia,NAM,2000,6.28,Africa
+Nepal,NPL,2000,12.83,Asia
+Netherlands,NLD,2000,5.95,Europe
+New Zealand,NZL,2000,3.2,Oceania
+Nicaragua,NIC,2000,7.42,North America
+Niger,NER,2000,8.99,Africa
+Nigeria,NGA,2000,8.12,Africa
+North Korea,PRK,2000,11.86,Asia
+Norway,NOR,2000,3.9,Europe
+Oman,OMN,2000,8.22,Asia
+Pakistan,PAK,2000,9.24,Asia
+Panama,PAN,2000,5.01,North America
+Papua New Guinea,PNG,2000,12.38,Oceania
+Paraguay,PRY,2000,7.6,South America
+Peru,PER,2000,7.86,South America
+Philippines,PHL,2000,8.89,Asia
+Poland,POL,2000,7.5,Europe
+Portugal,PRT,2000,5.04,Europe
+Qatar,QAT,2000,10.09,Asia
+Romania,ROU,2000,7.76,Europe
+Russia,RUS,2000,6.39,Asia
+Rwanda,RWA,2000,7.75,Africa
+Saint Lucia,LCA,2000,7.09,North America
+Saint Vincent and the Grenadines,VCT,2000,7.74,North America
+Samoa,WSM,2000,9.4,Oceania
+Sao Tome and Principe,STP,2000,11.41,Africa
+Saudi Arabia,SAU,2000,7.56,Asia
+Senegal,SEN,2000,7.49,Africa
+Serbia,SRB,2000,9.97,Europe
+Seychelles,SYC,2000,5.88,Africa
+Sierra Leone,SLE,2000,9.24,Africa
+Singapore,SGP,2000,7.24,Asia
+Slovakia,SVK,2000,7.25,Europe
+Slovenia,SVN,2000,6.06,Europe
+Solomon Islands,SLB,2000,14.08,Oceania
+Somalia,SOM,2000,9.52,Africa
+South Africa,ZAF,2000,5.41,Africa
+South Korea,KOR,2000,5.99,Asia
+South Sudan,SSD,2000,9.17,Africa
+Spain,ESP,2000,5.18,Europe
+Sri Lanka,LKA,2000,8.35,Asia
+Sudan,SDN,2000,9.65,Africa
+Suriname,SUR,2000,6.46,South America
+Sweden,SWE,2000,3.51,Europe
+Switzerland,CHE,2000,4.84,Europe
+Syria,SYR,2000,8.99,Asia
+Tajikistan,TJK,2000,13.23,Asia
+Tanzania,TZA,2000,6.74,Africa
+Thailand,THA,2000,6.9,Asia
+Togo,TGO,2000,7.06,Africa
+Tonga,TON,2000,9.31,Oceania
+Trinidad and Tobago,TTO,2000,8.15,North America
+Tunisia,TUN,2000,8.3,Africa
+Turkey,TUR,2000,9.49,Asia
+Turkmenistan,TKM,2000,8.18,Asia
+Uganda,UGA,2000,4.72,Africa
+Ukraine,UKR,2000,8.61,Europe
+United Arab Emirates,ARE,2000,7.29,Asia
+United Kingdom,GBR,2000,5.54,Europe
+Uruguay,URY,2000,4.42,South America
+Uzbekistan,UZB,2000,10.75,Asia
+Vanuatu,VUT,2000,10.96,Oceania
+Venezuela,VEN,2000,5.22,South America
+Vietnam,VNM,2000,9.61,Asia
+Yemen,YEM,2000,8.62,Asia
+Zambia,ZMB,2000,5.36,Africa
+Zimbabwe,ZWE,2000,4.13,Africa
