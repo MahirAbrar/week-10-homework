@@ -1,24 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "World Map showcasing deaths due to Air Pollution",
-  "width": 800,
-  "height": 400,
-  "params": [
-    {
-      "name": "year_slider",
-      "value": 1990,
-      "bind": {
-        "input": "select",
-        "options": [1990, 2000, 2010, 2016],
-        "labels": ["1990", "2000", "2010", "2016"],
-        "name": "Year Selection: "
-      }
-    }
-  ],
+  "width": "1000",
+  "height": "500",
   "layer": [
     {
       "data": {
-        "url": "REPLACE_WITH_DATASET_URL",
+        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
         "format": {
           "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
@@ -29,14 +17,11 @@
           "lookup": "properties.ADMIN",
           "from": {
             "data": {
-              "url": "REPLACE_WITH_CORRESPONDING_CSV_URL"
+              "url": "https://raw.githubusercontent.com/MahirAbrar/week-10-homework/main/data/filtered_share-deaths-air-pollution_with_continent.csv"
             },
             "key": "Entity",
             "fields": ["Air pollution (total) (IHME, 2019)", "Entity", "Year"]
           }
-        },
-        {
-          "filter": "year_slider == 1990 || +datum.Year === +year_slider"
         }
       ],
       "mark": {
@@ -63,11 +48,7 @@
             "type": "quantitative",
             "title": "Air Pollution"
           },
-          {
-            "field": "Year",
-            "type": "nominal",
-            "title": "Year"
-          }
+          { "field": "Year", "type": "nominal", "title": "Year" }
         ]
       }
     },
@@ -97,8 +78,28 @@
         "fill": null,
         "stroke": "darkgray"
       }
+    },
+    {
+      "data": {
+        "values": [
+          { "lon": -100, "lat": 45, "conVal": "North America" },
+          { "lon": -60, "lat": -15, "conVal": "South America" },
+          { "lon": -10, "lat": 50, "conVal": "Europe" },
+          { "lon": 20, "lat": 10, "conVal": "Africa" },
+          { "lon": 80, "lat": 30, "conVal": "Asia" },
+          { "lon": 150, "lat": -25, "conVal": "Australia" },
+          { "lon": 170, "lat": -45, "conVal": "Oceania" }
+        ]
+      },
+      "mark": "text",
+      "encoding": {
+        "longitude": { "field": "lon", "type": "quantitative" },
+        "latitude": { "field": "lat", "type": "quantitative" },
+        "text": { "field": "conVal", "type": "nominal" }
+      }
     }
   ],
+
   "projection": {
     "type": "equalEarth"
   }

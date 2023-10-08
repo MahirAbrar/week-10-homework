@@ -1,0 +1,100 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Air Pollution Deaths Over Time",
+  "width": "500",
+  "height": "500",
+  "data": {
+    "url": "https://raw.githubusercontent.com/MahirAbrar/week-10-homework/main/data/filtered_share-deaths-air-pollution_with_continent.csv"
+  },
+  "params": [
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Continent Selection: "
+      }
+    },
+    {
+      "name": "continent_highlight",
+      "select": { "type": "point", "fields": ["Continent"] },
+      "bind": "legend"
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "title": "Year"
+    },
+    "y": {
+      "field": "Air pollution (total) (IHME, 2019)",
+      "type": "quantitative",
+      "title": "Air Pollution Death Rate",
+      "scale": {
+        "domain": [0, 18]
+      }
+    },
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "title": "Continent"
+    },
+    "opacity": {
+      "condition": { "param": "continent_highlight", "value": 0.6 },
+      "value": 0.2
+    },
+    "detail": {
+      "field": "Entity",
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "Entity",
+        "type": "nominal",
+        "title": "Country"
+      },
+      {
+        "field": "Year",
+        "type": "temporal",
+        "title": "Year"
+      },
+      {
+        "field": "Air pollution (total) (IHME, 2019)",
+        "type": "quantitative",
+        "title": "Air Pollution Death Rate"
+      },
+      {
+        "field": "Continent",
+        "type": "nominal",
+        "title": "Continent"
+      }
+    ]
+  }
+}

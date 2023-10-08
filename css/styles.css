@@ -1,8 +1,37 @@
-#symbol_map {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
+/* Apply Arial font to all elements */
+* {
+  font-family: Arial, sans-serif;
+}
+
+/* Set up the flex container */
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+/* Description */
+.textContent {
+  flex: 2; /* 40% */
+  text-align: center;
+  padding: 1rem;
+}
+
+/* Make paragraph text bigger */
+p {
+  font-size: 18px; /* adjust as needed */
+}
+
+/* Make h1 text bigger */
+h1 {
+  font-size: 36px; /* adjust as needed */
+  margin-top: 0;
+}
+
+/* Set background color */
+.background {
+  background-color: lightgray;
+  margin: 0% 5% 0% 5%;
 }
